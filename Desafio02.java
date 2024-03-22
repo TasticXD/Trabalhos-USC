@@ -16,11 +16,11 @@ public class Desafio02 {
 	   if (idade > 60 && batCard > 150) {
 		   System.out.println("URGÊNTE");
 	   
-	   }else if(idade > 60 && batCard < 150 ) {
+	   }else if(idade > 60 && batCard <= 150 ) {
 		   
 		   System.out.println("Urgência moderada");
 	   
-	   }else if(idade <= 60 && batCard < 150 ) {
+	   }else if(idade <= 60 && batCard > 150 ) {
 		   
 		   System.out.println("Urgência moderada");
 		   
