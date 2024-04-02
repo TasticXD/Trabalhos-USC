@@ -1,4 +1,8 @@
-public static void main(String[] arg){
+package Exercicios;
+
+public class Exercicio2Aula9{
+
+    public static void main(String[] arg){
     String nomeCompleto = "Seu nome";
     String primeiroNome = "";
     int i = 0;
